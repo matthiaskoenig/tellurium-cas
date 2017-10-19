@@ -1,6 +1,6 @@
 # tellurium-cas
 This repository demonstrates how to run the [CombineArchiveShowCase](https://github.com/SemsProject/CombineArchiveShowCase)
-with tellurium.
+with [tellurium](http://tellurium.analogmachine.org/).
 
 The results of the archive execution are available in
 [./tellurium-cas.ipynb](./tellurium-cas.ipynb)
@@ -13,7 +13,7 @@ Clone the repository
 git clone https://github.com/matthiaskoenig/tellurium-cas.git
 cd tellurium-cas
 ```
-Create a python virtual environment with tellurium
+Create a python virtual environment with [tellurium](http://tellurium.analogmachine.org/)
 ```
 mkvirtualenv tellurium-cas
 (tellurium-cas) pip install -r requirements.txt
