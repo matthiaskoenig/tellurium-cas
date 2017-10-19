@@ -29,3 +29,6 @@ Run the notebook
 Kernel -> Change Kernel -> tellurium-cas
 Kernel -> Restart & Run All
 ```
+
+![Figure 1B1 Top](./figure1B1.png)
+![Figure 1B2 Bottom](./figure1B2.png)
