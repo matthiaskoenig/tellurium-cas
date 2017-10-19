@@ -11,6 +11,7 @@ and the output folder
 Clone the repository
 ```
 git clone https://github.com/matthiaskoenig/tellurium-cas.git
+cd tellurium-cas
 ```
 Create a python virtual environment with tellurium
 ```
