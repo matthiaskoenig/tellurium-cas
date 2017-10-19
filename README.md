@@ -1,7 +1,6 @@
 # tellurium-cas
-This repository demonstrates how to run the CombineShowCase Archive with tellurium.
-
-https://github.com/SemsProject/CombineArchiveShowCase
+This repository demonstrates how to run the [CombineArchiveShowCase](https://github.com/SemsProject/CombineArchiveShowCase)
+with tellurium.
 
 The results of the archive execution are available in
 [./tellurium-cas.ipynb](./tellurium-cas.ipynb)
@@ -29,6 +28,3 @@ Run the notebook
 Kernel -> Change Kernel -> tellurium-cas
 Kernel -> Restart & Run All
 ```
-
-
-
